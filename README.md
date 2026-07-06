@@ -1,3 +1,4 @@
+NOTE : "This app is hosted on a free platform and may go inactive after some time. If it’s asleep, the first load might take a moment to wake up. For a quick overview, I’ve included a demo clip—feel free to check that out anytime!"
 
 DEMO video clip - https://drive.google.com/file/d/1VaEF_ZQomAVJxiyxX5DVMlttcw3jM9rn/view
 
